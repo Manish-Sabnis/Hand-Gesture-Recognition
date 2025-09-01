@@ -41,8 +41,8 @@ Rules are derived directly from the landmark coordinates, without training a sep
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/<your-username>/hand-gesture-recognition.git
-cd hand-gesture-recognition
+git clone https://github.com/Manish-Sabnis/Hand-Gesture-Recognition
+cd Hand-Gesture-Recognition
 ```
 
 ### 2. Create a virtual environment (recommended)
